@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @el-03
-- 👀 I’m interested in data field
-- 🌱 I’m currently learning data engineering
+- 👀 I’m interested in the data field
+- 🌱 I’m currently learning data science
